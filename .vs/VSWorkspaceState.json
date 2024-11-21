@@ -2,8 +2,13 @@
   "ExpandedNodes": [
     "",
     "\\Proiect",
-    "\\Proiect\\Proiect"
+    "\\Proiect\\Proiect",
+    "\\Proiect\\Proiect\\x64",
+    "\\Proiect\\Proiect\\x64\\Debug",
+    "\\Proiect\\Proiect\\x64\\Debug\\Proiect.tlog",
+    "\\Proiect\\x64",
+    "\\Proiect\\x64\\Debug"
   ],
-  "SelectedNode": "\\Proiect\\Proiect\\Proiect.cpp",
+  "SelectedNode": "\\Proiect",
   "PreviewInSolutionExplorer": false
 }

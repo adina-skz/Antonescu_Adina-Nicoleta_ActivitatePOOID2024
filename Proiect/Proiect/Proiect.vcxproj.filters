@@ -18,5 +18,8 @@
     <ClCompile Include="Proiect.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Tema1_autobuze.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

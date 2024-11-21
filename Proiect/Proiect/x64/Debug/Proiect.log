@@ -1,2 +1,9 @@
 ﻿  Proiect.cpp
-  Proiect.vcxproj -> C:\Users\PC\source\repos\Antonescu_Adina-Nicoleta_ActivitatePOOID2024\Proiect\x64\Debug\Proiect.exe
+  Tema1_autobuze.cpp
+C:\Users\PC\source\repos\Antonescu_Adina-Nicoleta_ActivitatePOOID2024\Proiect\Proiect\Tema1_autobuze.cpp(12,29): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\PC\source\repos\Antonescu_Adina-Nicoleta_ActivitatePOOID2024\Proiect\Proiect\Tema1_autobuze.cpp(17,9): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\PC\source\repos\Antonescu_Adina-Nicoleta_ActivitatePOOID2024\Proiect\Proiect\Tema1_autobuze.cpp(43,9): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\PC\source\repos\Antonescu_Adina-Nicoleta_ActivitatePOOID2024\Proiect\Proiect\Tema1_autobuze.cpp(50,9): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\PC\source\repos\Antonescu_Adina-Nicoleta_ActivitatePOOID2024\Proiect\Proiect\Tema1_autobuze.cpp(79,9): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\PC\source\repos\Antonescu_Adina-Nicoleta_ActivitatePOOID2024\Proiect\Proiect\Tema1_autobuze.cpp(96,13): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...
